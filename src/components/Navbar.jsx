@@ -50,7 +50,7 @@ function TopNavbar() {
   return (
     <div>
       <Navbar bg="light" expand="lg">
-  <Navbar.Brand href="/">
+  <Navbar.Brand href="https://dsmak32.github.io/sto-da-gledame/">
     <img
       src="https://i.imgur.com/b7dVdY0.png"
       style={{ height: "100px", paddingLeft: 10 }}
